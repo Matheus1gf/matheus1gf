@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello, my name is Matheus Ferreira. I am a back-end developer with expertise in artificial intelligence and machine learning. I started in the programming world at the age of 13, where I studied the development of systems and software in C#. Currently, I work as a IT Operations Manager.
+
+I have over 5 years of experience in PHP development, ranging from website design and creation to the architecture of highly complex software. In addition, I have dedicated the last 4 years of my career to the in-depth study of machine learning and deep learning.
+
+I am knowledgeable in Python, Javascript, SQL, C#, Java, PHP, C, and C++. I also have a high level of expertise in Deep Learning and Machine Learning, using libraries such as scikit-learn, numpy, pandas, keras, scipy, matplotlib, TensorFlow, and PyTorch. I have comprehensive knowledge of regressions, gradient boosting, classifications, and neural networks.
