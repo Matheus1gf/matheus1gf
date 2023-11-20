@@ -1,5 +1,5 @@
 <h1 align="center">Hello everyone! 😄</h1>
-<h3 align="center">I'm I am a back-end developer with expertise in artificial intelligence and machine learning.</h3>
+<h3 align="center">I'm a back-end developer with expertise in artificial intelligence and machine learning.</h3>
 
 <h4>About me:</h4>
 <p align="left">I started in the programming world at the age of 13, where I studied the development of systems and software in C#. Currently, I work as a IT Operations Manager.</p>
