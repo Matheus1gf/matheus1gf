@@ -1,4 +1,4 @@
-<h1 align="center"><iframe src="https://giphy.com/embed/OBnIvqqpKFbZam9Wmj" width="480" height="182" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/MiniMaison-new-baby-newbaby-birthannoucement-OBnIvqqpKFbZam9Wmj"></a></p></h1>
+<h1 align="center">Hello everyone! 😄</h1>
 <h3 align="center">I'm I am a back-end developer with expertise in artificial intelligence and machine learning.</h3>
 
 <h4>About me:</h4>
