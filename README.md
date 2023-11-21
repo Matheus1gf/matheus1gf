@@ -15,7 +15,7 @@
     <li>I love creating new things</li>
 </ul>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
     <a href="https://wa.me/5521980155656?text=Ol%C3%A1%2C+achei+seu+contato+no+GitHub%21"><img align="center" src="./assets/whatsapp.png" alt="matheus1gf" height="30" width="40"/></a>
     <a href="https://t.me/matheus1gf"><img align="center" src="./assets/telegram.png" alt="matheus1gf" height="30" width="40"/></a>
@@ -25,7 +25,7 @@
     <a href="https://twitter.com/matheus1gf" target="meu twitter"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="matheus1gf" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
     <h5>Programming Languages</h5>
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
