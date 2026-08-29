@@ -1,140 +1,168 @@
-<h1 align="center">Hello everyone! 😄</h1>
-<h3 align="center">I'm a back-end developer with expertise in artificial intelligence and machine learning. 👨‍💻</h3>
+<h1 align="center">Matheus Ferreira</h1>
 
-<h4>About me:</h4>
-<p align="left">I started in the programming world at the age of 13 (at year 2009), where I studied the development of systems and software in C#. Currently, I work as a IT Operations Manager.</p>
-<p align="left">I have over 5 years of experience in PHP development, ranging from website design and creation to the architecture of highly complex software. In addition, I have dedicated the last 4 years of my career to the in-depth study of machine learning and deep learning.</p>
-<p align="left">I am knowledgeable in Python, Javascript, SQL, C#, Java, PHP, C, and C++. I also have a high level of expertise in Deep Learning and Machine Learning, using libraries such as scikit-learn, numpy, pandas, keras, scipy, matplotlib, TensorFlow, and PyTorch. I have comprehensive knowledge of regressions, gradient boosting, classifications, and neural networks.</p>
-
-<h4>It's important for me:</h4>
-<ul>
-    <li>I am always learning something new</li>
-    <li>I love sharing knowledge</li>
-    <li>I contribute to open-source libraries</li>
-    <li>I participate in competitions and projects</li>
-    <li>I love creating new things</li>
-</ul>
-
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-    <a href="https://wa.me/5521980155656?text=Ol%C3%A1%2C+achei+seu+contato+no+GitHub%21"><img align="center" src="./assets/whatsapp.png" alt="matheus1gf" height="30" width="40"/></a>
-    <a href="https://discord.gg/matheus1gf" target="meu discord"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="matheus1gf" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/matheus-ferreira-1601" target="meu linkedin"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus-ferreira-1601" height="30" width="40" /></a>
-    <a href="https://instagram.com/matheus1gf" target="meu instagram"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matheus1gf" height="30" width="40" /></a>
+<p align="center">
+  <strong>Director of IT Operations</strong><br>
+  IT Operations · Software Engineering · SRE · Applied AI
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
-<p align="left">
-    <h5>Programming Languages</h5>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-    </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-    </a> 
+<p align="center">
+  <a href="mailto:matheus.ferreira@planium.io">Professional Email</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/matheus-ferreira-1601/">LinkedIn</a>
 </p>
-<p align="left">
-    <h5>Back-end Development</h5>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-    </a> 
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-    </a> 
-</p>
-<p align="left">
-    <h5>Artificial Inteligence and Machine Learning</h5>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-    </a> 
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-    </a> 
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-    </a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-    </a> 
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-    </a> 
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-    </a> 
-</p>
-<p align="left">
-    <h5>Front-end Development</h5>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-    </a> 
-    <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> 
-    </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    </a> 
-</p>
-<p align="left">
-    <h5>Database</h5>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
-    <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-    </a> 
-</p>
-<p align="left">
-    <h5>Others</h5>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
-    </a> 
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-    </a> 
-</p>
+
+---
+
+## About Me
+
+I am the Director of IT Operations at Planium, where I lead initiatives related to service reliability, customer operations, incident management, process improvement, and intelligent automation.
+
+I started programming in 2009, at the age of 13, initially working with C# and software development. Since then, I have built a multidisciplinary career combining software engineering, backend development, IT operations, artificial intelligence, and technical leadership.
+
+My work is focused on transforming complex operational and business problems into reliable, scalable, and measurable technical solutions.
+
+I value continuous learning, knowledge sharing, pragmatic engineering, and building systems that generate tangible business results.
+
+---
+
+## Areas of Expertise
+
+### IT Operations and Service Reliability
+
+Leadership and improvement of technology operations, with an emphasis on:
+
+- Service reliability and operational governance
+- Incident, problem, and change management
+- SLA, backlog, and service performance management
+- SRE practices, postmortems, and continuous improvement
+- Customer-facing technology operations
+- Process standardization and automation
+
+### Software Architecture and Backend Engineering
+
+Design and implementation of systems involving:
+
+- Backend services and business-critical applications
+- REST API design and system integrations
+- Workflow and state-machine architecture
+- Relational databases and data modeling
+- Event-driven and asynchronous processes
+- Healthcare and regulated business workflows
+
+### Applied Artificial Intelligence and Automation
+
+Application of artificial intelligence to real operational problems, including:
+
+- LLM-powered operational workflows
+- Retrieval-Augmented Generation — RAG
+- Intelligent ticket classification and routing
+- AI-assisted software development
+- Process orchestration and decision automation
+- Machine learning foundations and data analysis
+
+---
+
+## Core Technology Stack
+
+**Backend and data:** PHP, Python, TypeScript, JavaScript, SQL and REST APIs
+
+**Automation and integration:** n8n, webhooks, HubSpot APIs and third-party integrations
+
+**Infrastructure and delivery:** Docker, AWS, Git, GitHub and CI/CD pipelines
+
+**Applied AI:** OpenAI APIs, Codex, RAG, scikit-learn and Pandas
+
+I select technologies according to the problem, operational context, maintainability requirements, and expected business outcome rather than attempting to apply every available tool.
+
+---
+
+## Selected Projects
+
+### AI-Assisted Support and Operations Automation
+
+**Problem**
+
+Technical support and operations teams had to manually inspect, classify, prioritize, route, and respond to a large number of service tickets. This increased response time, created inconsistencies, and consumed engineering capacity with repetitive work.
+
+**Architecture**
+
+An event-driven workflow receives ticket events, retrieves the ticket history, customer information, documentation, and operational context. An AI layer classifies the request, identifies the responsible team, applies SLA and routing rules, and prepares the appropriate internal or customer-facing response.
+
+Validation steps, processing locks, audit records, and human-review mechanisms were included to prevent duplicate processing and unsafe automated decisions.
+
+**Stack**
+
+n8n, HubSpot APIs, OpenAI, Codex, REST APIs, JavaScript, Python, Slack and GitHub.
+
+**Result**
+
+The project standardized ticket triage and routing, reduced repetitive operational work, improved traceability, and created a reusable foundation for AI-assisted service operations.
+
+---
+
+### Healthcare Onboarding and Medical Underwriting Workflows
+
+**Problem**
+
+Healthcare onboarding processes involve multiple participants, business rules, health declarations, medical reviews, document generation, signatures, notifications, and integrations with external systems.
+
+Managing these activities through fragmented or highly manual processes creates operational risk, inconsistent decisions, and limited traceability.
+
+**Architecture**
+
+The solution was structured as a state-based workflow with role-specific steps for applicants, beneficiaries, nurses, physicians, operations teams, and external systems.
+
+The architecture included business-rule validation, medical-review stages, document generation, electronic acceptance, audit trails, asynchronous notifications, and REST API integrations.
+
+**Stack**
+
+PHP, JavaScript, TypeScript, SQL, REST APIs, Docker and AWS.
+
+**Result**
+
+The solution centralized complex healthcare workflows, reduced manual handoffs, improved process traceability, and created a more predictable integration model for customers and external systems.
+
+---
+
+### SRE and Operational Governance Program
+
+**Problem**
+
+Recurring incidents, growing ticket backlogs, unclear ownership, and limited visibility into operational indicators made it difficult to prioritize corrective actions and prevent repeated failures.
+
+**Architecture**
+
+The program connected service-management data, SLA indicators, incident classification, postmortems, runbooks, improvement projects, and automation workflows.
+
+Incidents and recurring issues were converted into structured engineering or process-improvement initiatives, with defined ownership, prioritization, deadlines, and follow-up indicators.
+
+**Stack**
+
+HubSpot, n8n, Linear, Notion, GitHub, SQL and Python.
+
+**Result**
+
+The program established clearer operational ownership, improved prioritization, strengthened incident follow-up, and created a continuous feedback loop between customer issues, operations, product, and engineering.
+
+---
+
+## Professional Focus
+
+I am currently focused on the intersection of:
+
+- Technology operations and engineering leadership
+- Service reliability and customer experience
+- Artificial intelligence applied to operational processes
+- Automation of complex and repetitive workflows
+- Scalable software and integration architecture
+
+Some of the projects described above are enterprise initiatives developed in private repositories. Their descriptions focus on the problems addressed, architectural decisions, technologies used, and operational outcomes.
+
+---
+
+## Contact
+
+For professional conversations, partnerships, or technical discussions:
+
+- **Email:** [matheus.ferreira@planium.io](mailto:matheus.ferreira@planium.io)
+- **LinkedIn:** [linkedin.com/in/matheus-ferreira-1601](https://www.linkedin.com/in/matheus-ferreira-1601/)
